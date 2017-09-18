@@ -6,8 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/UnityNetworkLobby/SampleScenes/Scenes/NetworkLobby.unity
-    guid: 3c0d76c55eed6214f9d3b070caede5d3
+    path: Assets/SampleScenes/Scenes/NetworkLobby.unity
   - enabled: 1
-    path: Assets/SimpleMultiplayer/Scenes/SimpleMultiplayerMain.unity
-    guid: 6416ad81d47ab4ff3a69b41450442017
+    path: Assets/SampleScenes/Scenes/NetworkSpaceship.unity
